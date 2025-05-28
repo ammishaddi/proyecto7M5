@@ -1,4 +1,4 @@
-# PROYECTO 7 MODULO 3- NODE y NPM
+# PROYECTO 7 - NODE y NPM
 El presente repositorio contiene el proyecto 7 del Módulo "Desarrollo avanzado en JS" del master en Frontend
 
 ## Objetivos de aprendizaje
